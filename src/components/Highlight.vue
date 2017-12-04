@@ -1,8 +1,11 @@
 <template lang='pug'>
-div highlight
+div
+    pre(class='brush: sql') select * from user;
+
 </template>
 
 <script>
+let SyntaxHighlighter = window.SyntaxHighlighter
 
 export default {
     name: '',
@@ -10,7 +13,8 @@ export default {
         return {
         }
     },
-    created () {
+    mounted () {
+        SyntaxHighlighter.all()
     }
 }
 </script>
