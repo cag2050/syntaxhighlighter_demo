@@ -1,6 +1,6 @@
 # syntaxhighlighter_demo
 
-* 使用说明网站：http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html
+* 使用说明网址：http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html
 * 支持的格式：http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/
 
 > A Vue.js project
