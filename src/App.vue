@@ -1,7 +1,7 @@
 <template lang='pug'>
 <div id="app">
     div 路由列表：
-    router-link(to='/') highlight
+    a(href='/') highlight
     <br/>
     router-link(to='/hello') hello
     div ----下面是内容-----
