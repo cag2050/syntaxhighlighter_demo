@@ -1,6 +1,6 @@
 <template lang='pug'>
 div
-    pre(class='brush: sql') select * from user where user_id = 12;
+    pre(class='brush: sql') select * from user where user_id = '12';
 
 </template>
 
