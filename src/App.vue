@@ -1,12 +1,11 @@
 <template lang='pug'>
-<div id="app">
+#app
     div 路由列表：
     a(href='/') highlight
     <br/>
     router-link(to='/hello') hello
     div ----下面是内容-----
     <router-view/>
-</div>
 </template>
 
 <script>

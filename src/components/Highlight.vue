@@ -14,7 +14,8 @@ export default {
         }
     },
     mounted () {
-        SyntaxHighlighter.all()
+        SyntaxHighlighter.highlight()
+        // SyntaxHighlighter.all()
     }
 }
 </script>

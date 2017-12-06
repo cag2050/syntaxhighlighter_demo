@@ -3,6 +3,11 @@
 * 使用说明网址：http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html
 * 支持的格式：http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/
 
+* SyntaxHighlighter.highlight() 与 SyntaxHighlighter.all() 的区别是：
+all()是注册到onload()事件中。
+
+
+
 > A Vue.js project
 
 ## Build Setup
